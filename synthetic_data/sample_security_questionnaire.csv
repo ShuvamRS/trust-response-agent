@@ -1,0 +1,21 @@
+question_id,category,question
+Q001,Access Control,Does AcmeCloud Analytics require MFA for employees and administrators?
+Q002,Access Control,How often is production access reviewed?
+Q003,Access Control,Are shared employee accounts permitted for standard business operations?
+Q004,Access Control,Within how many hours are employee accounts disabled after termination?
+Q005,Encryption,What encryption standard is used for customer data at rest?
+Q006,Encryption,What minimum TLS version is required for data in transit?
+Q007,Encryption,Does AcmeCloud Analytics publish the exact supported cipher suite list?
+Q008,Encryption,Are backups encrypted?
+Q009,Incident Response,Within what timeframe are security incidents triaged?
+Q010,Incident Response,Who receives escalation for critical incidents?
+Q011,Incident Response,Does the evidence specify a universal customer notification deadline for incidents?
+Q012,Data Retention,How long is customer data retained after contract termination unless a different agreement applies?
+Q013,Data Retention,Does the evidence specify the exact retention period for all backup copies?
+Q014,Data Retention,Can customer agreement terms change the standard post-termination retention period?
+Q015,Vendor Management,Are vendors reviewed before onboarding and annually after onboarding?
+Q016,Vendor Management,Does AcmeCloud Analytics provide a real public subprocessor list in this synthetic evidence set?
+Q017,Vendor Management,Does the policy define a universal deletion timeline for all vendors?
+Q018,Business Continuity,How often are backups tested?
+Q019,Business Continuity,Does the evidence specify exact RTO and RPO values?
+Q020,Compliance,"Does the evidence claim AcmeCloud Analytics is SOC 2, ISO 27001, HIPAA, FedRAMP, or GDPR certified?"

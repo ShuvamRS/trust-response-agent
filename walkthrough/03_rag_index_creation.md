@@ -1,4 +1,4 @@
-# 03 — RAG Index Creation
+# RAG Index Creation
 
 This section creates a RAG index in Azure AI Search from documents stored in Azure Blob Storage.
 
